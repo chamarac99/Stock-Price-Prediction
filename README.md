@@ -12,4 +12,5 @@ This project is a machine learning model for predicting stock prices based on hi
 ## How to Run
 1. Clone the repository:
    ```bash
+   https://github.com/chamarac99/Stock-Price-Prediction.git
    
